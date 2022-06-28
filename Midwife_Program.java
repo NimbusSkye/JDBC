@@ -4,7 +4,7 @@ import java.time.LocalDate;
 import java.time.LocalTime;
 import java.time.temporal.ChronoUnit;
 
-class GoBabbyApp
+class Midwife_Program
 {
 
   public static java.sql.ResultSet getAppointments (Connection con, Statement statement, int practitioner_id) throws SQLException {
